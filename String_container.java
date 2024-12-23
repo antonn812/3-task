@@ -25,7 +25,7 @@ public class String_container {
         Scanner scanner = new Scanner(System.in);
         String_container stringArray = new String_container();
         
-        System.out.println("Ввод строк (чтобы закончить ввод писать - stop): ");
+        System.out.println("Ввод строк (чтобы закончить ввод писать - stop):");
         
         while (true) {
             String input = scanner.nextLine();
